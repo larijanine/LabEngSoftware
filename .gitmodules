@@ -2,3 +2,6 @@
 	path = servico_persistencia
 	url = https://github.com/larijanine/servico_persistencia
 	branch = main
+[submodule "submodulo"]
+	path = submodulo
+	url = https://github.com/larijanine/servico_persistencia
