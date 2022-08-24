@@ -1,4 +1,0 @@
-[submodule "servico_persistencia"]
-	path = servico_persistencia
-	url = https://github.com/larijanine/servico_persistencia
-	branch = main
